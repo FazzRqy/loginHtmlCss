@@ -1,0 +1,45 @@
+body {
+    background-color: darkkhaki;
+}
+
+.heading-txt {
+    text-align: center;
+    font-size: 32px;
+    text-transform: uppercase;
+    padding: 10px;
+}
+
+.text-inBorder {
+    text-align: center;
+    border: 7px double black;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 0 auto;
+}
+
+.box {
+    font-style: oblique;
+    font-size: 134%;
+    text-align: center;
+    text-transform: uppercase;
+    color: white;
+    border: 3px solid black;
+    width: 300px;
+    padding: 20px;
+    border-radius: 10px;
+    margin: 0 auto;
+    background-color: brown;
+}
+
+input.submit {
+    width: 20em; height: 2em;
+}
+
+.login {
+    font-size: 19px;
+}
+
+.information {
+    text-align: center;
+    opacity: 0.3;
+}

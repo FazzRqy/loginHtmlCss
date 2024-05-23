@@ -1,0 +1,49 @@
+body {
+    background-color: orange;
+}
+
+.uptext {
+    text-align: center;
+}
+
+.login {
+    align-content: center;
+}
+
+.box {
+    width: 300px;
+    padding: 20px;
+    color: white;
+    font-size: 22px;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: darkkhaki;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.lginTxt {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 2px solid black;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+    border-bottom: 2px;
+    border-top: 2px;
+    margin: 0 auto;
+    width: 300px;
+}
+
+button.button-register {
+    font-size: 19px;
+    width: 300px;
+}
+
+input.submit {
+    width: 20em; height: 2em;
+}
+
+.information {
+    text-align: center;
+    opacity: 0.3;
+}

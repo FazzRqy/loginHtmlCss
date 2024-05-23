@@ -1,0 +1,15 @@
+{
+  "name": "login_pj",
+  "version": "1.0.0",
+  "description": "Project pertama",
+  "main": "baken.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "FazzRqy/Zaikky Farel Aldino Zahran",
+  "license": "ISC",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security"
+  }
+}
